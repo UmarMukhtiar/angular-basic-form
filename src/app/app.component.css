@@ -1,0 +1,22 @@
+.add-employee-container {
+  margin-top: 3rem;
+}
+
+.add-employee-container h2 {
+  display: inline-block;
+  height: 100%;
+  border: none;
+  margin: 0;
+}
+
+.add-employee-container button {
+  height: auto;
+  border: none;
+  margin-left: 1rem;
+  margin-bottom: 0.2rem;
+  background-color: cadetblue;
+}
+
+.table-container {
+  margin: 3rem;
+}
